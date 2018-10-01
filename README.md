@@ -14,6 +14,7 @@
   [Функциональные возможности.](https://docs.google.com/presentation/d/1JkI3b0-XVK7E_YbagLgUYko8VoVr_Gqmp3VOfLzaaJE/edit#slide=id.p)
  * [Лекция №3. Сеть](https://docs.google.com/presentation/d/1rOhhtZQ1s91ZnmI1hS8LbwsLEGao62TrP919gJlEzhY/edit?usp=sharing)
  * [Лекция №4. Frontend, HTML, CSS](https://docs.google.com/presentation/d/1x03GugTqQtTm-RKVGIn-BmkQjzDHP2ffmoiE3rLaBx4/edit?usp=sharing)
+ * [Лекция №5. Django](https://docs.google.com/presentation/d/1j3Ed3akZdrTOw9Jqua3lnO9jiSAaskbD7YftyzK2N34/edit?usp=sharing)
 
 
 ### Лабораторные работы 
