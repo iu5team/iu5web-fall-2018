@@ -23,6 +23,8 @@
  * [Лабораторная работа №1. Когнитивные карты](https://docs.google.com/document/d/1rjBai3gXuVcYie3QIyMVEsfO9TpUOtq3Gg6QgZzV_Cw/edit?usp=sharing)
  * [Лабораторная работа №2. Python. Объектно-ориентированные возможности](https://docs.google.com/document/d/1Cr_ijD3sWv0N0xE3rHiJaT4H5D7L8mKcLFqSa9d6Aco/edit?usp=sharing) 
  * [Лабораторная работа №3. Python. Функциональные возможности](https://docs.google.com/document/d/1aSWeBivbn1kVZsowpsnGJZDF_E68KAS1vXxWg2Kh6GQ/edit?usp=sharing)
+ * [Лабораторная работа №4. Django. Шаблонизация](https://docs.google.com/document/d/1b2PuHdqYK89d0MPAEcAl6dmSYB55jepJxBrd7Ub0kY8/edit?usp=sharing)
+ * [Лабораторная работа №5. Работа с СУБД](https://docs.google.com/document/d/1oxeT-8BEdYHkN64gmGoQscpb_jC3CSfmoN294ah-jeU/edit?usp=sharing)
  
  
 ### Установка окружения на Windows
