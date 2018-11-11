@@ -16,6 +16,8 @@
  * [Лекция №4. Frontend, HTML, CSS](https://docs.google.com/presentation/d/1x03GugTqQtTm-RKVGIn-BmkQjzDHP2ffmoiE3rLaBx4/edit?usp=sharing)
  * [Лекция №5. Django](https://docs.google.com/presentation/d/1j3Ed3akZdrTOw9Jqua3lnO9jiSAaskbD7YftyzK2N34/edit?usp=sharing)
  * [Лекция №6. Базы данных](https://docs.google.com/presentation/d/1eWISxu8HWCUidVIKr7flxETR7JZkhLIVs6CecaQeQD8/edit?usp=sharing)
+ * [Лекция №7. Модели](https://docs.google.com/presentation/d/1rcQWZhGkoZVSTgVz1VfMj2UzGSsHDDdX7v26wlIFpIo/edit?usp=sharing)
+ * [Лекция №8. Формы и авторизация](https://docs.google.com/presentation/d/1HkFb_MhRNWpv6R4gFgg15CSwT_ni-dTosJ0GjtltYJE/edit?usp=sharing)
 
 
 ### Лабораторные работы 
